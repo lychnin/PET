@@ -39,3 +39,5 @@ $$\begin{bmatrix}x \\y \\z \\1\end{bmatrix}=\begin{bmatrix}a_{11} & a_{12} & a_{
 最后一行是为了保证变换前后都是齐次坐标。
 
 ![Alt text](image-1.png)
+
+![](2023-08-21-16-36-15.png)
